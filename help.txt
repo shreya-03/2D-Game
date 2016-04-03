@@ -1,0 +1,16 @@
+Controls for the game :
+Angle of canon can be changed by pressing 'a' or 'A' to increase angle and 'b' or 'B' to decrease the angle. In my game arrow rotates according to the key pressed. 
+You can move the canon horizontally by pressing 'w' which results in moving canon left and pressing 'e' makes canon move right.
+Press ' ' to emit the ball from the canon.
+You can increase the speed of ball emitted from canon by pressing 's' and decrement is done by pressing 'f' .
+Left and right arrow keys can be used to pan the screen. Left arrow key makes the screen to move left while right arrow key makes it move right.
+Up arrow key zoom in the screen and down arrow key  zoom out screen.
+We can also use mouse to execute above operations.
+Click right mouse button to pan the screen to right while left mouse button to pan it to the left.
+We can also drag the mouse to pan the screen.
+When you click on the screen angle of the ball emitted from canon is set.
+To quit press 'q'.
+Updated Score is displayed on  the terminal everytime you hit an obstacle or target.
+When ball hits the target it gets disappeared and Score is dispalyed.
+When the ball stops on the ground due to friction then you can enter ' ' toi emit new ball and older one gets disappeared.
+So to play the game adjust canon so that it hit the target in less attempt otherwise you will loose points. There are obstacle in between so aim properly and earn points.
